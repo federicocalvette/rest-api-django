@@ -1,5 +1,7 @@
 # rest-api-django
 
+## Data base's table example
+<img src="./img/db_table.png"><br><br><br>
 
 ## Endpoint examples
 
