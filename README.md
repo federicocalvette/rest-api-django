@@ -9,15 +9,15 @@ python3 manage.py runserver
 ```bash 
 python3 manage.py migrate
 ```
+
 ```bash 
 python3 manage.py createsuperuser
 ```
-```bash 
-python3 manage.py makemigrations
-```
+
 ```bash 
 python3 manage.py migrate
 ```
+
 ```bash 
 python3 manage.py runserver
 ```
