@@ -26,7 +26,7 @@ python3 manage.py runserver
 ## Data base's table example
 #### Courses:
 <img src="./img/db_table.png">
-<img src="./img/table_terminal.png"><br><br>
+<img src="./img/table_terminal.png">
 
 #### Django's tables:<br>
 <img src="./img/tables.png"><br><br><br>
