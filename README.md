@@ -1,5 +1,28 @@
 # rest-api-django
 
+## Run
+```bash
+python3 manage.py runserver
+```
+
+### First time
+```bash 
+python3 manage.py migrate
+```
+```bash 
+python3 manage.py createsuperuser
+```
+```bash 
+python3 manage.py makemigrations
+```
+```bash 
+python3 manage.py migrate
+```
+```bash 
+python3 manage.py runserver
+```
+
+
 ## Data base's table example
 <img src="./img/db_table.png"><br><br><br>
 
